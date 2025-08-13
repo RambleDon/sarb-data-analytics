@@ -1,0 +1,254 @@
+[
+  {
+    "Hirearchy": "1",
+    "ItemNumber": "96",
+    "Name": "Total Equity",
+    "ColumnNumber": "1",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2",
+    "ItemNumber": "95",
+    "Name": "Total Liabilities",
+    "ColumnNumber": "4",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2.1",
+    "ItemNumber": "78",
+    "Name": "Total Liabilities to the public",
+    "ColumnNumber": "4",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2.1.1",
+    "ItemNumber": "1",
+    "Name": "Deposits",
+    "ColumnNumber": "7",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2.1.1.1",
+    "ItemNumber": "2",
+    "Name": "Deposits (Rands)",
+    "ColumnNumber": "7",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2.1.1.1.1",
+    "ItemNumber": "20",
+    "Name": "Financial Corporate",
+    "ColumnNumber": "7",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "2.1.1.1.2",
+    "ItemNumber": "25",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "7",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "2.1.1.1.3",
+    "ItemNumber": "27",
+    "Name": "Household",
+    "ColumnNumber": "7",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "2.1.1.2",
+    "ItemNumber": "32",
+    "Name": "Desposits (Foreign)",
+    "ColumnNumber": "7",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9",
+    "ItemNumber": "277",
+    "Name": "Total Assets",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.1",
+    "ItemNumber": "103",
+    "Name": "Central Bank Money",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2",
+    "ItemNumber": "110",
+    "Name": "Deposits, Loans & Advances",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.1",
+    "ItemNumber": "139",
+    "Name": "Installment Debtors",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.1.1",
+    "ItemNumber": "142",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "5",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "9.2.1.2",
+    "ItemNumber": "143",
+    "Name": "Household",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.2.2",
+    "ItemNumber": "145",
+    "Name": "Leasing Transactions",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.2.1",
+    "ItemNumber": "147",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "5",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "9.2.2.2",
+    "ItemNumber": "148",
+    "Name": "Household",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.2.3",
+    "ItemNumber": "150",
+    "Name": "Mortgages",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.3.1",
+    "ItemNumber": "155",
+    "Name": "Residential",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.2.4",
+    "ItemNumber": "166",
+    "Name": "Credit Card",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.4.1",
+    "ItemNumber": "168",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "5",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "9.2.4.2",
+    "ItemNumber": "169",
+    "Name": "Household",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.2.5",
+    "ItemNumber": "181",
+    "Name": "Overdrafts",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.5.1",
+    "ItemNumber": "183",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "5",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "9.2.5.2",
+    "ItemNumber": "185",
+    "Name": "Household",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.2.6",
+    "ItemNumber": "188",
+    "Name": "Other Loans & Advances",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.2.6.1",
+    "ItemNumber": "190",
+    "Name": "Nonfinancial Corporate",
+    "ColumnNumber": "5",
+    "Classification": "C"
+  },
+  {
+    "Hirearchy": "9.2.6.2",
+    "ItemNumber": "192",
+    "Name": "Household",
+    "ColumnNumber": "5",
+    "Classification": "H"
+  },
+  {
+    "Hirearchy": "9.3",
+    "ItemNumber": "194",
+    "Name": "Credit Impairments",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.4",
+    "ItemNumber": "195",
+    "Name": "Investments",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.4.1",
+    "ItemNumber": "198",
+    "Name": "Government Securities",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.4.2",
+    "ItemNumber": "213",
+    "Name": "Other Interest Bearing Securities",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.4.3",
+    "ItemNumber": "225",
+    "Name": "Listed Equities",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.4.4",
+    "ItemNumber": "237",
+    "Name": "Derivatives",
+    "ColumnNumber": "5",
+    "Classification": null
+  },
+  {
+    "Hirearchy": "9.5",
+    "ItemNumber": "258",
+    "Name": "Nonfinancial Assets",
+    "ColumnNumber": "5",
+    "Classification": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+    "data_dir": "data/ba_900",
+    "mapping_file": "config/ba_900_mapping.json",
+    "combined_data_parquet": "combined_data.parquet",
+    "pivoted_data_parquet": "pivoted_mapped_data.parquet",
+    "analytics_data_parquet": "analytics_data.parquet",
+    "analytics_report_excel": "analytics_report.xlsx",
+    "analytics_summary_txt": "analytics_summary.txt",
+    "loan_aggregation": {
+        "Loans to Nonfinancial Corporate Sector": {
+            "classification": "C",
+            "hierarchy_prefix": "9"
+        },
+        "Loans to Household Sector": {
+            "classification": "H",
+            "hierarchy_prefix": "9"
+        }
+    }
+}

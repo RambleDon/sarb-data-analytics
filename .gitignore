@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data files - typically not stored in Git
+/data/
+
+# Output files
+*.xlsx
+*.txt
+*.parquet
